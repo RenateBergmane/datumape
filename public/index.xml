@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ananke: a Hugo Theme on How artificial intelligence will change the course of Belarus protests 2020</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Ananke: a Hugo Theme on How artificial intelligence will change the course of Belarus protests 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jan 2021 11:15:58 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conclusions</title>
+      <link>http://example.org/post/chapter-5/</link>
+      <pubDate>Fri, 08 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>http://example.org/post/chapter-5/</guid>
+      <description>When I first started looking at information about the AI and its impact on the protests in Belarus, I thought that Andrey Maximov&amp;rsquo;s video of the facial recognition of Belarusian police officers was my main focus. However, I was wrong, there is no doubt that Nexta and a handful of other telegram channels have played a key role in informing the world about the post-election turmoil in Belarus. Some observers, however, voice discomfort, depending too much on these sources.</description>
+    </item>
+    
+    <item>
+      <title>Facial recognition and Belarus example</title>
+      <link>http://example.org/post/chapter-4/</link>
+      <pubDate>Tue, 05 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>http://example.org/post/chapter-4/</guid>
+      <description>Over last years the facial recognition system is one of the major successes of Artificial intelligence. Facial recognition has always been a field of continuous development and research due to its usage in different areas such as security and robotics. It has gained even more popularity and interest by the researchers with the recent advancements in artificial intelligence and deep learning, which improved the robustness of facial recognition systems. It captures, analyzes, and compares patterns based on the person&amp;rsquo;s facial details.</description>
+    </item>
+    
+    <item>
+      <title>Krama app</title>
+      <link>http://example.org/post/kramaapp/</link>
+      <pubDate>Tue, 05 Jan 2021 11:13:32 -0400</pubDate>
+      
+      <guid>http://example.org/post/kramaapp/</guid>
+      <description>Other great app that helps people to boycott products that are linked to former president A. Lukashenka is KRAMA, created by software developer Siarhei Kastrama which helps determine whether a manufacturer of a particular product is connected to Lukashenka or state-owned companies by simply scanning the barcode of the item 1 The app is available on Android and iOS and has been downloaded over 60,000 times in just one week. 2 This app is important to Belarusian protests because the price of alcohol and tobacco consists of several components: benefit, taxation, like VAT, excise taxes, real manufacturing costs (salaries, depreciation, energy costs, logistics, marketing, etc.</description>
+    </item>
+    
+    <item>
+      <title>NEXTA- an app that made protests in Belarus possible</title>
+      <link>http://example.org/post/nexta/</link>
+      <pubDate>Sun, 03 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>http://example.org/post/nexta/</guid>
+      <description>The issue of press freedom and censorship has remained a highly complex issue in Belarus. The government effectively owns and closely supervises most newspapers and TV channels. Furthermore, since September 9, 2001, when the authorities blocked hundreds of web outlets covering the presidential election, internet shutdowns in Belarus have become routine government activity.1
+On August 9, 2020 during and immediately after the latest Belarusian presidential elections, the government again turned to sharp censorship.</description>
+    </item>
+    
+    <item>
+      <title>INTRODUCTION</title>
+      <link>http://example.org/post/introduction/</link>
+      <pubDate>Sat, 02 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>http://example.org/post/introduction/</guid>
+      <description>Every person living in a democratic country knows that their right to make or join a peaceful protest is their right to make or join a peaceful protest if they feel that their rights are not heard by the government, and that they can go to demonstrations without fear from the police or the army, but not every country in the a1st century. History books claim that the Soviet Union no longer exists, but we can be sure that in post-Soviet Union countries such as Ukraine1 and Belarus 2 , its legacy of corruption and policies, army violence, lives on.</description>
+    </item>
+    
+  </channel>
+</rss>

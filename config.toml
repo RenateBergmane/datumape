@@ -1,3 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "How artificial intelligence will change the course of Belarus protests 2020"
+featured_image = '/img/img1.jpg'
+theme = "ananke"
